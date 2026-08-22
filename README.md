@@ -1,21 +1,23 @@
-# Python Quotes Scraper
+# Python Quotes Scraper & Data Exporter
 
-A simple Python web scraper built with `requests` and `BeautifulSoup` to extract quotes and authors from quotes.toscrape.com, with automatic data export options.
+A Python web scraper built with `requests`, `BeautifulSoup4`, and `openpyxl` to extract quotes, authors, and tags from quotes.toscrape.com, with multi-format data export capabilities.
 
 ## Features
-- Fetches top quotes from the target website
-- Extracts author names and tags along with quote text
-- Displays structured output in the terminal
-- Exports scraped data directly to **CSV** (`quotes.csv`) and **JSON** (`quotes.json`)
+- Extracts quote text, author names, and category tags
+- Auto-exports raw data to **CSV** (`quotes.csv`) and **JSON** (`quotes.json`)
+- Generates a fully styled **Excel spreadsheet** (`quotes.xlsx`) featuring:
+  - Custom dark blue headers with white text
+  - Automatic column auto-sizing and text wrapping
+  - Pre-configured landscape layout for seamless PDF conversion
 
 ## Tech Stack
 - Python 3
 - `requests`
 - `beautifulsoup4`
-- `csv` & `json`
+- `openpyxl`
 
 ## How to Run
-```bash
-pip install requests beautifulsoup4
-python scraper.py
+1. Install required dependencies:
+   ```bash
+   pip install requests beautifulsoup4 openpyxl
 ```
