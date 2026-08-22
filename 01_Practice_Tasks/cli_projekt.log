@@ -1,4 +1,0 @@
-2026-08-21 17:01:55,641 [INFO] CLI Scraper indítása | Szűrés: max 25.0 GBP | Kimenet: cli_konyvek.csv
-2026-08-21 17:01:56,428 [INFO] Siker! 7 könyv kiírva a(z) 'cli_konyvek.csv' fájlba.
-2026-08-21 17:02:59,401 [INFO] CLI Scraper indítása | Szűrés: max 20.0 GBP | Kimenet: szuper_olcso.csv
-2026-08-21 17:03:00,076 [INFO] Siker! 3 könyv kiírva a(z) 'szuper_olcso.csv' fájlba.
