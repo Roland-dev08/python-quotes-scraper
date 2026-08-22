@@ -1,0 +1,212 @@
+{
+    "Travel": [
+        {
+            "cim": "It's Only the Himalayas",
+            "ar_gbp": 45.17
+        },
+        {
+            "cim": "Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond",
+            "ar_gbp": 49.43
+        },
+        {
+            "cim": "See America: A Celebration of Our National Parks & Treasured Sites",
+            "ar_gbp": 48.87
+        },
+        {
+            "cim": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+            "ar_gbp": 36.94
+        },
+        {
+            "cim": "Under the Tuscan Sun",
+            "ar_gbp": 37.33
+        },
+        {
+            "cim": "A Summer In Europe",
+            "ar_gbp": 44.34
+        },
+        {
+            "cim": "The Great Railway Bazaar",
+            "ar_gbp": 30.54
+        },
+        {
+            "cim": "A Year in Provence (Provence #1)",
+            "ar_gbp": 56.88
+        },
+        {
+            "cim": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+            "ar_gbp": 23.21
+        },
+        {
+            "cim": "Neither Here nor There: Travels in Europe",
+            "ar_gbp": 38.95
+        },
+        {
+            "cim": "1,000 Places to See Before You Die",
+            "ar_gbp": 26.08
+        }
+    ],
+    "Mystery": [
+        {
+            "cim": "Sharp Objects",
+            "ar_gbp": 47.82
+        },
+        {
+            "cim": "In a Dark, Dark Wood",
+            "ar_gbp": 19.63
+        },
+        {
+            "cim": "The Past Never Ends",
+            "ar_gbp": 56.5
+        },
+        {
+            "cim": "A Murder in Time",
+            "ar_gbp": 16.64
+        },
+        {
+            "cim": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+            "ar_gbp": 44.1
+        },
+        {
+            "cim": "The Last Mile (Amos Decker #2)",
+            "ar_gbp": 54.21
+        },
+        {
+            "cim": "That Darkness (Gardiner and Renner #1)",
+            "ar_gbp": 13.92
+        },
+        {
+            "cim": "Tastes Like Fear (DI Marnie Rome #3)",
+            "ar_gbp": 10.69
+        },
+        {
+            "cim": "A Time of Torment (Charlie Parker #14)",
+            "ar_gbp": 48.35
+        },
+        {
+            "cim": "A Study in Scarlet (Sherlock Holmes #1)",
+            "ar_gbp": 16.73
+        },
+        {
+            "cim": "Poisonous (Max Revere Novels #3)",
+            "ar_gbp": 26.8
+        },
+        {
+            "cim": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+            "ar_gbp": 54.36
+        },
+        {
+            "cim": "Most Wanted",
+            "ar_gbp": 35.28
+        },
+        {
+            "cim": "Hide Away (Eve Duncan #20)",
+            "ar_gbp": 11.84
+        },
+        {
+            "cim": "Boar Island (Anna Pigeon #19)",
+            "ar_gbp": 59.48
+        },
+        {
+            "cim": "The Widow",
+            "ar_gbp": 27.26
+        },
+        {
+            "cim": "Playing with Fire",
+            "ar_gbp": 13.71
+        },
+        {
+            "cim": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+            "ar_gbp": 25.37
+        },
+        {
+            "cim": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+            "ar_gbp": 52.3
+        },
+        {
+            "cim": "Delivering the Truth (Quaker Midwife Mystery #1)",
+            "ar_gbp": 20.89
+        }
+    ],
+    "Historical Fiction": [
+        {
+            "cim": "Tipping the Velvet",
+            "ar_gbp": 53.74
+        },
+        {
+            "cim": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+            "ar_gbp": 29.69
+        },
+        {
+            "cim": "A Flight of Arrows (The Pathfinders #2)",
+            "ar_gbp": 55.53
+        },
+        {
+            "cim": "The House by the Lake",
+            "ar_gbp": 36.95
+        },
+        {
+            "cim": "Mrs. Houdini",
+            "ar_gbp": 30.25
+        },
+        {
+            "cim": "The Marriage of Opposites",
+            "ar_gbp": 28.08
+        },
+        {
+            "cim": "Glory over Everything: Beyond The Kitchen House",
+            "ar_gbp": 45.84
+        },
+        {
+            "cim": "Love, Lies and Spies",
+            "ar_gbp": 20.55
+        },
+        {
+            "cim": "A Paris Apartment",
+            "ar_gbp": 39.01
+        },
+        {
+            "cim": "Lilac Girls",
+            "ar_gbp": 17.28
+        },
+        {
+            "cim": "The Constant Princess (The Tudor Court #1)",
+            "ar_gbp": 16.62
+        },
+        {
+            "cim": "The Invention of Wings",
+            "ar_gbp": 37.34
+        },
+        {
+            "cim": "World Without End (The Pillars of the Earth #2)",
+            "ar_gbp": 32.97
+        },
+        {
+            "cim": "The Passion of Dolssa",
+            "ar_gbp": 28.32
+        },
+        {
+            "cim": "Girl With a Pearl Earring",
+            "ar_gbp": 26.77
+        },
+        {
+            "cim": "Voyager (Outlander #3)",
+            "ar_gbp": 21.07
+        },
+        {
+            "cim": "The Red Tent",
+            "ar_gbp": 35.66
+        },
+        {
+            "cim": "The Last Painting of Sara de Vos",
+            "ar_gbp": 55.55
+        },
+        {
+            "cim": "The Guernsey Literary and Potato Peel Pie Society",
+            "ar_gbp": 49.53
+        },
+        {
+            "cim": "Girl in the Blue Coat",
+            "ar_gbp": 46.83
+        }
+    ]
+}
