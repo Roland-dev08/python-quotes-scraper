@@ -1,5 +1,33 @@
-Dynamic SPA Web Scraper (Playwright & Python)
+# Dynamic SPA Web Scraper (Playwright)
 
-A robust, asynchronous web scraper built with Python and Playwright designed to extract dynamic content from JavaScript-rendered Single Page Applications (SPAs). It features asynchronous execution using asyncio and playwright.async_api, automatically waits for DOM elements, handles dynamic content loads, iterates through dynamic pagination, runs Chromium in headless mode with custom User-Agent headers, implements retry logic, network idle checks, structured logging, and exports clean, structured data into JSON, CSV, and Excel (.xlsx) formats. Tech Stack includes Python 3.10+, Playwright, Pandas, and standard logging.
+A robust Python web scraper built with Playwright designed to extract dynamic, JavaScript-rendered data across multiple pages of a Single Page Application (SPA) and export it into production-ready formats (CSV, JSON, Excel).
 
-To set up and run: Clone the repository (https://github.com/Roland-dev08/python-quotes-scraper.git), navigate to python-quotes-scraper/04_Dynamic_SPA_Scraper, install dependencies with 'pip install playwright pandas openpyxl' and 'playwright install chromium', then execute 'python scraper.py'. Generated outputs include quotes_dynamic.json, quotes_dynamic.csv, quotes_dynamic.xlsx, and scraper.log. Developed as part of an advanced Web Scraping & Data Extraction Portfolio.
+## Key Features
+
+- **Dynamic SPA Scraping**: Automates a headless Chromium browser to handle client-side rendered dynamic JavaScript content.
+- **Asynchronous Execution**: Leverages `asyncio` and `playwright.async_api` for fast, efficient execution.
+- **Multi-Format Export**:
+  - `quotes_dynamic.csv` – Clean data standard for database import.
+  - `quotes_dynamic.json` – Structured JSON for API integration.
+  - `quotes_dynamic.xlsx` – Professionally styled Excel spreadsheet.
+
+## 🛠️ Tech Stack & Libraries
+
+- **Python 3.x**
+- **Playwright**
+- **Pandas**
+- **OpenPyXL**
+
+## Output Data Structure
+
+| Field | Type | Example |
+| :--- | :--- | :--- |
+| **quote** | String | The world as we have created it is a process of our thinking. |
+| **author** | String | Albert Einstein |
+| **tags** | String | change, deep-thoughts, thinking |
+
+## How to Run
+
+```bash
+python scraper.py
+```
