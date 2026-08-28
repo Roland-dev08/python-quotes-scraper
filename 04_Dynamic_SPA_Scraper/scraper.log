@@ -1,0 +1,24 @@
+2026-08-28 11:09:10,343 [INFO] Launching headless Chromium browser...
+2026-08-28 11:09:11,128 [INFO] Navigating to Page 1: https://quotes.toscrape.com/js/
+2026-08-28 11:09:13,383 [INFO] Successfully scraped 10 items from Page 1.
+2026-08-28 11:09:13,388 [INFO] Navigating to Page 2: https://quotes.toscrape.com/js/page/2/
+2026-08-28 11:09:14,444 [INFO] Successfully scraped 10 items from Page 2.
+2026-08-28 11:09:14,449 [INFO] Navigating to Page 3: https://quotes.toscrape.com/js/page/3/
+2026-08-28 11:09:15,443 [INFO] Successfully scraped 10 items from Page 3.
+2026-08-28 11:09:15,449 [INFO] Navigating to Page 4: https://quotes.toscrape.com/js/page/4/
+2026-08-28 11:09:16,425 [INFO] Successfully scraped 10 items from Page 4.
+2026-08-28 11:09:16,430 [INFO] Navigating to Page 5: https://quotes.toscrape.com/js/page/5/
+2026-08-28 11:09:17,394 [INFO] Successfully scraped 10 items from Page 5.
+2026-08-28 11:09:17,398 [INFO] Navigating to Page 6: https://quotes.toscrape.com/js/page/6/
+2026-08-28 11:09:18,366 [INFO] Successfully scraped 10 items from Page 6.
+2026-08-28 11:09:18,371 [INFO] Navigating to Page 7: https://quotes.toscrape.com/js/page/7/
+2026-08-28 11:09:19,338 [INFO] Successfully scraped 10 items from Page 7.
+2026-08-28 11:09:19,343 [INFO] Navigating to Page 8: https://quotes.toscrape.com/js/page/8/
+2026-08-28 11:09:20,341 [INFO] Successfully scraped 10 items from Page 8.
+2026-08-28 11:09:20,345 [INFO] Navigating to Page 9: https://quotes.toscrape.com/js/page/9/
+2026-08-28 11:09:21,335 [INFO] Successfully scraped 10 items from Page 9.
+2026-08-28 11:09:21,340 [INFO] Navigating to Page 10: https://quotes.toscrape.com/js/page/10/
+2026-08-28 11:09:22,361 [INFO] Successfully scraped 10 items from Page 10.
+2026-08-28 11:09:22,363 [INFO] No further pages found. Dynamic pagination complete.
+2026-08-28 11:09:22,415 [INFO] Browser session closed.
+2026-08-28 11:09:22,761 [INFO] Successfully exported 100 total records to JSON, CSV, and XLSX.
