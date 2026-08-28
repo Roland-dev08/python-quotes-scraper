@@ -1,0 +1,32 @@
+2026-08-28 13:18:11,021 [INFO] Fetching Page 1: https://quotes.toscrape.com/api/quotes?page=1
+2026-08-28 13:18:11,027 [INFO] Fetching Page 2: https://quotes.toscrape.com/api/quotes?page=2
+2026-08-28 13:18:11,028 [INFO] Fetching Page 3: https://quotes.toscrape.com/api/quotes?page=3
+2026-08-28 13:18:11,029 [INFO] Fetching Page 4: https://quotes.toscrape.com/api/quotes?page=4
+2026-08-28 13:18:11,031 [INFO] Fetching Page 5: https://quotes.toscrape.com/api/quotes?page=5
+2026-08-28 13:18:11,754 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=4 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,757 [INFO] Successfully processed Page 4 (10 quotes).
+2026-08-28 13:18:11,757 [INFO] Fetching Page 6: https://quotes.toscrape.com/api/quotes?page=6
+2026-08-28 13:18:11,761 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=2 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,762 [INFO] Successfully processed Page 2 (10 quotes).
+2026-08-28 13:18:11,762 [INFO] Fetching Page 7: https://quotes.toscrape.com/api/quotes?page=7
+2026-08-28 13:18:11,764 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=3 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,765 [INFO] Successfully processed Page 3 (10 quotes).
+2026-08-28 13:18:11,765 [INFO] Fetching Page 8: https://quotes.toscrape.com/api/quotes?page=8
+2026-08-28 13:18:11,776 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=1 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,777 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=5 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,778 [INFO] Successfully processed Page 1 (10 quotes).
+2026-08-28 13:18:11,779 [INFO] Successfully processed Page 5 (10 quotes).
+2026-08-28 13:18:11,779 [INFO] Fetching Page 9: https://quotes.toscrape.com/api/quotes?page=9
+2026-08-28 13:18:11,780 [INFO] Fetching Page 10: https://quotes.toscrape.com/api/quotes?page=10
+2026-08-28 13:18:11,885 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=6 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,886 [INFO] Successfully processed Page 6 (10 quotes).
+2026-08-28 13:18:11,891 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=7 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,892 [INFO] Successfully processed Page 7 (10 quotes).
+2026-08-28 13:18:11,896 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=8 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,897 [INFO] Successfully processed Page 8 (10 quotes).
+2026-08-28 13:18:11,914 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=9 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,916 [INFO] Successfully processed Page 9 (10 quotes).
+2026-08-28 13:18:11,917 [INFO] HTTP Request: GET https://quotes.toscrape.com/api/quotes?page=10 "HTTP/1.1 200 OK"
+2026-08-28 13:18:11,918 [INFO] Successfully processed Page 10 (10 quotes).
+2026-08-28 13:18:11,919 [INFO] Asynchronous scraping complete. Total records collected: 100
+2026-08-28 13:18:12,158 [INFO] Successfully exported data to CSV, JSON, and XLSX formats.
