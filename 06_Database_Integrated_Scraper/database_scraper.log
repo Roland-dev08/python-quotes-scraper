@@ -1,0 +1,13 @@
+2026-08-28 13:25:37,128 [INFO] Database setup complete. Connected to 'scraped_books.db'.
+2026-08-28 13:25:37,128 [INFO] Fetching Page 1: https://books.toscrape.com/catalogue/page-1.html
+2026-08-28 13:25:37,861 [INFO] Successfully scraped 20 items from Page 1.
+2026-08-28 13:25:37,861 [INFO] Fetching Page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-08-28 13:25:38,012 [INFO] Successfully scraped 20 items from Page 2.
+2026-08-28 13:25:38,013 [INFO] Fetching Page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-08-28 13:25:38,168 [INFO] Successfully scraped 20 items from Page 3.
+2026-08-28 13:25:38,168 [INFO] Fetching Page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-08-28 13:25:38,323 [INFO] Successfully scraped 20 items from Page 4.
+2026-08-28 13:25:38,323 [INFO] Fetching Page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-08-28 13:25:38,472 [INFO] Successfully scraped 20 items from Page 5.
+2026-08-28 13:25:38,479 [INFO] Database transaction complete. Upserted 100 records.
+2026-08-28 13:25:38,696 [INFO] Successfully exported 100 database records to CSV, JSON, and XLSX.
