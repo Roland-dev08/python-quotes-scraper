@@ -1,0 +1,5 @@
+Dynamic SPA Web Scraper (Playwright & Python)
+
+A robust, asynchronous web scraper built with Python and Playwright designed to extract dynamic content from JavaScript-rendered Single Page Applications (SPAs). It features asynchronous execution using asyncio and playwright.async_api, automatically waits for DOM elements, handles dynamic content loads, iterates through dynamic pagination, runs Chromium in headless mode with custom User-Agent headers, implements retry logic, network idle checks, structured logging, and exports clean, structured data into JSON, CSV, and Excel (.xlsx) formats. Tech Stack includes Python 3.10+, Playwright, Pandas, and standard logging.
+
+To set up and run: Clone the repository (https://github.com/Roland-dev08/python-quotes-scraper.git), navigate to python-quotes-scraper/04_Dynamic_SPA_Scraper, install dependencies with 'pip install playwright pandas openpyxl' and 'playwright install chromium', then execute 'python scraper.py'. Generated outputs include quotes_dynamic.json, quotes_dynamic.csv, quotes_dynamic.xlsx, and scraper.log. Developed as part of an advanced Web Scraping & Data Extraction Portfolio.
